@@ -3,7 +3,7 @@
 
 
 
-![What we're making](./images/logo.png)
+![What we're making](./imagenes/logo.png)
 
 Es |
 ¿Cómo las últimas tecnologías podrían apoyar y promover mejores condiciones y oportunidades laborales en los diferentes sectores económicos del país?
@@ -13,7 +13,7 @@ Walt Disney.
 
 Implementar un modelo de IA el cual permitirá, en primera instancia, a los emprendedores, tener acceso y facilidad a la información para la creación de empresa en Colombia. Esto ayuda a todos los sectores económicos a desarrollarse ya que aquellos países donde se es más facil emprender son más prosperos y cumple con el 8 ODS 8  TRABAJO DECENTE Y CRECIMIENTO ECONÓMICO; Promover el crecimiento económico sostenido, inclusivo y sostenido el empleo pleno y productivo y el trabajo decente para todos
 
-![What we're making](./images/camello.gif)
+![What we're making](./imagenes/camello.gif)
 
 
 A futuro, CAMELLO se encontrará soportada en diferentes plataformas como lo son Telegram, WhatsApp y Discord. Para dar respuesta rápida a las necesidades del usuario y con la integración de la API Latent Insig de TCS Cubo identificará los patrones de conducta de los usuarios, generando información sobre tendencias, permitiendo mejorar constantemente el servicio.
